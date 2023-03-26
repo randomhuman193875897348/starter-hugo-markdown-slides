@@ -10,7 +10,7 @@ slides:
   theme: black
   highlight_style: dracula
 ---
-![](aspose.words.a925e1bf-a187-4ac1-8a00-1b1e921e5e94.001.png)
+
 
 # PIANO Z
 
