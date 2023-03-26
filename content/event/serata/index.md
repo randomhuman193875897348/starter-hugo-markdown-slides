@@ -6,7 +6,7 @@ date: 2023-03-26T09:46:48.240Z
 date_end: 2023-04-07T22:00:00.000Z
 all_day: true
 event: "seratona "
-event_url: www.statoveneto.net
+event_url: https://statoveneto.net
 publishDate: 2023-03-26T09:46:48.256Z
 draft: false
 featured: false
