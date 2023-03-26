@@ -11,7 +11,7 @@ publishDate: 2023-03-26T09:46:48.256Z
 draft: false
 featured: false
 tags:
-  - veneto
+  - eventi
 image:
   filename: http://statoveneto.net/governo/wp-content/uploads/2017/06/stato-veneto-venetie-1.jpg
   focal_point: Smart
