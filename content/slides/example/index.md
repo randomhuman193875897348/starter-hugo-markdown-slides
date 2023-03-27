@@ -24,11 +24,7 @@ parte I
 ## Introduzione
 - - -
 
-
 ### Concetti fondamentali
-
-s﻿econdo la legge italiana:
-
 * la Costituzione è la carta suprema, è illegale ciò che non è compatibile con essa
 * il popolo è sovrano, ma nei limiti della Costituzione (art.1)
 * in Italia valgono le leggi estere solo se ratificate (art.10,73,80 Cost)
