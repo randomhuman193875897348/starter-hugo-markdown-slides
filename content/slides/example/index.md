@@ -3,7 +3,7 @@ title: Cos'è il Piano Z?
 date: 2019-02-05
 summary: An introduction to using Wowchemy's Slides feature.
 slides:
-  theme: red
+  theme: ""
   highlight_style: dracula
 authors: []
 tags:
