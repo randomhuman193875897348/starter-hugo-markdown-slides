@@ -78,10 +78,22 @@ Umiltà, attenzione, volontà di libertà, fatica, logica, ecc
 
 - - -
 
-## Fragments
+## È FACILE CREDERE CHE LE COSE SIANO SEMPLICI, CHE BASTI UNA VELOCE SPIEGAZIONE, INVECE OCCORRE TANTA FATICA ED UMILTÀ
 
-Make content appear incrementally
+- - -
 
+### La storia del Lombardo-Veneto
+
+- Fino al 1840 le annessioni le decidevano i Re, Imperatori, Dogi, Papi ecc e Chi vinceva la guerra comandava. 
+
+- Nel 1797 la Repubblica di Venezia non è morta; invasa da Napoleone ha cambiato forma di governo da Aristocratico a Municipale ed in seguito è stata ceduta agli Asburgo.
+- Nel 1815 gli Asburgo hanno accorpato i Ducati di Milano e Mantova al Ducato Veneto creando il Regno Lombardo-Veneto, stato con capitale Venezia e diviso in due regione, Veneto e Lombardia.  
+
+Nota Bene:
+- Con questo atto nasce il concetto moderno di Lombardia
+- Secondo il diritto internazionale il regno Lombardo-Veneto è l'erede giuridico di tre stati: La Repubblica Veneta, il Ducato di Milano ed il Ducato di Mantova
+
+- - -
 ```
 {{</* fragment */>}} $\mathbf{y} =  $ {{</* /fragment */>}}
 {{</* fragment */>}} $X\boldsymbol\beta$ {{</* /fragment */>}}
