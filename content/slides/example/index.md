@@ -173,6 +173,7 @@ Chi ha scritto la Costituzione? Chi l’ha approvata ?
 Nel 1946 si è svolto un Referendum per la scelta fra Monarchia e Repubblica e nello stesso momento si è eletta una Assemblea Costituente delegata a fare la Costituzione. Ufficialmente il popolo italiano avrebbe scelto la Repubblica.
 
 - - -
+
 *Art. 5. La Repubblica, una e indivisibile, riconosce e promuove le autonomie locali; attua nei servizi che dipendono dallo Stato il più ampio decentramento amministrativo [118]; adegua i principi ed i metodi della sua legislazione alle esigenze dell’autonomia e del decentramento [114 e segg., IX].*
 
 La Repubblica è indivisibile: non si può dividere la Repubblica, non ci si può fare una  Repubblica per proprio conto o individuale.  Tutti sono soggetti alle leggi! Esistono però le “leggi internazionali”. 
@@ -180,6 +181,7 @@ La Repubblica è indivisibile: non si può dividere la Repubblica, non ci si pu�
 La Costituzione è superiore alle leggi dello Stato, *il Giudice delle Leggi* è la Corte Costituzionale. Vedremo in seguito le Regioni e le Autonomie Speciali.
 
 - - -
+
 **CONCETTO BASE:** le leggi hanno diversi *livelli,* esiste una *Gerarchia* delle Fonti normative o Gerarchia delle norme, e per ora  risulta essere :  
 
 1) Costituzione della Repubblica Italiana
@@ -188,6 +190,7 @@ La Costituzione è superiore alle leggi dello Stato, *il Giudice delle Leggi* è
 4) Altre leggi delle Regioni, Province ecc 
 
 - - -
+
 *Art. 10. L’ordinamento giuridico italiano si conforma alle norme del diritto internazionale generalmente riconosciute.*
 
 L’*ordinamento giuridico italiano:* l’insieme delle norme giuridiche (Costituzione, leggi, regolamenti, ecc ) dello Stato. 
@@ -207,6 +210,7 @@ Concentriamoci sul diritto internazionale : "*La procedura normale di esame e di
 Come indicato, l’art. 80 Cost è quello relativo ai trattati internazionali.
 
 - - -
+
 Art. 80 - *Le Camere autorizzano con legge la ratifica dei trattati internazionali[87] che sono di natura politica, o prevedono arbitrati o regolamenti giudiziari, o importano variazioni del territorio od oneri alle finanze o modificazioni di leggi.*
 
 La clausola “modificazioni di leggi” in pratica impongono che ogni trattato internazionale venga ratificato perché produce “modificazioni di leggi”.
@@ -214,6 +218,7 @@ La clausola “modificazioni di leggi” in pratica impongono che ogni trattato 
 Vediamo l’87 Cost.
 
 - - -
+
 *Art. 87. “Il Presidente della Repubblica è il capo dello Stato [..]. Promulga  le  leggi  [73,  74,  138] [..] ratifica  i  trattati internazionali, previa, quando occorra, l’autorizzazione delle Camere [80].”*
 
 Il Presidente della Repubblica “promulga leggi” ossia autorizza la pubblicazione sulla Gazzetta Ufficiale, e da quel momento non si può più modificare se non come previsto da Costituzione e leggi.
@@ -221,6 +226,7 @@ Il Presidente della Repubblica “promulga leggi” ossia autorizza la pubblicaz
 Generalmente le Camere, autorizzano il Presidente della Repubblica (a volte anche il Governo) a “Ratificare” un trattato internazionale che è già stato firmato in precedenza. L’atto finale di ratifica è demandato al Presidente della Repubblica perché lo rende legge ufficiale, ma il Presidente non può opporsi alla ratifica, sarebbe sovversione.
 
 - - -
+
 **CONCETTO BASE:** la Repubblica Italiana ha aderito ai seguenti organismi di diritto internazionale:
 
 **O.N.U.** – Organizzazione delle Nazioni Unite, di tipo politico
@@ -243,6 +249,7 @@ Generalmente le Camere, autorizzano il Presidente della Repubblica (a volte anch
 6) Altre leggi delle Regioni, Province ecc 
 
 - - -
+
 **CONCETTO BASE: le leggi non ratificate non esistono come tali nel nostro ordinamento.**
 
 Nel 2006 è stato abrogato l'art. 834 del Codice di procedura civile che permetteva agli arbitri di attuare gli usi del commercio.
@@ -255,7 +262,7 @@ Loris Palmerini (c) - pagina 47 di 47  Per approfondire:[  www.lombardo-veneto.n
 
 *Doveri inderogabili* di solidarietà economica, ossia la tassazione e la ripartizione degli utili. Si può NON pagare le tasse ? 
 
-Loris Palmerini (c) - pagina 47 di 47  Per approfondire:[  www.lombardo-veneto.ne](http://Www.lombardo-veneto.net/)t [e www.statoveneto.ne](http://www.statoveneto.net/)t [e www.palmerini.ne](http://www.palmerini.net/)t
+- - -
 
 *Art. 7. Lo Stato e la Chiesa cattolica sono, ciascuno nel proprio ordine, indipendenti e sovrani. I loro rapporti sono regolati dai Patti Lateranensi. Le modificazioni dei Patti, accettate dalle due parti, non richiedono procedimento di revisione              costituzionale[138].*
 
@@ -266,6 +273,7 @@ Indipendenza: un sistema non dipende da un altro.
 Patti Lateranensi: realizzati da Mussolini sono stati aggiornati da Craxi
 
 - - -
+
 ART. 114. *La Repubblica è costituita dai Comuni, dalle Province, dalle Città metropolitane, dalle Regioni e dallo Stato.*
 
 Il Titolo V della Costituzione definisce l’organizzazione dello Repubblica:
@@ -274,6 +282,7 @@ Il Titolo V della Costituzione definisce l’organizzazione dello Repubblica:
 - le Regioni e lo Stato hanno molte competenze condivise (dette *concorrenti*) gestite in accordo:  commercio con l’estero; sicurezza del lavoro; perte dell’istruzione, professioni, ricerca scientifica e tecnologica , tutela della salute; protezione civile; porti e aeroporti civili;  energia;  parte dei beni e delle attività attività culturali; casse di risparmio, casse rurali, aziende di credito a carattere regionale; enti di credito fondiario e agrario a carattere regionale. Nelle materie di legislazione concorrente spetta alle Regioni la potestà legislativa, salvo che per la determinazione dei principi fondamentali, riservata alla legislazione dello Stato.
 
 - - -
+
 - regola di chiusura : *Spetta alle Regioni la potestà legislativa in riferimento ad ogni materia non espressamente riservata alla legislazione dello Stato.*
 
 Le regioni hanno competenze “*esclusive*” in alcune “materie” (per es. le Cave), ma ci sono anche Regioni a *Statuto Speciale.*  Le Province ed i Comuni hanno specifiche competenze, si conformano alle leggi dello Stato e delle Regioni
@@ -281,12 +290,15 @@ Le regioni hanno competenze “*esclusive*” in alcune “materie” (per es. l
 - Sicilia, Sardegna, Valle d’Aosta, Friuli - Venezia Giulia, Bolzano e Trento hanno Statuto Speciale. 
 
 Nel 2001 la Costituzione è stata riformato in senso federalista, ma non è in gran parte attuato, vedi Banche a Carattere Regionale.
+
 - - -
+
 ART. 123. *Ciascuna Regione ha uno statuto che, in **armonia con la Costituzione,** ne determina la forma di governo e i principi fondamentali di organizzazione e funzionamento. Lo statuto regola l’esercizio del diritto di iniziativa e del referendum su leggi e provvedimenti amministrativi della Regione e la pubblicazione delle leggi e dei regolamenti regionali.*
 
 Le Regioni non possono realizzare l’indipendenza, violerebbero gli articoli 5, 117, 123 Cost e verrebbero commissariate.
 
 - - -
+
 **CONCETTO  BASE:** l’ordinamento  giuridico  italiano con  le leggi internazionali ratificate e con le norme degli Enti della Repubblica ha una *Gerarchia* *delle Fonti* che risulta essere :  
 
 1) Trattati Internazionali ratificati (ONU, Patti, NATO, Trattato di Roma, ecc)
@@ -322,6 +334,7 @@ Esistono anche:
 - la tentata cancellazione delle Province, illegale, cancellato il voto popolare
 
 - - -
+
 *Fonti → Preleggi → Capo I - Delle fonti del diritto*
 
 *Art. 1 “Preleggi” - Sono fonti del diritto:* 
@@ -338,19 +351,24 @@ Esistono anche:
 *Il potere regolamentare di altre autorità è esercitato nei limiti delle rispettive competenze, in conformità delle leggi particolari.*
 
 - - -
+
 *Art. 8 “Preleggi” - Nelle materie regolate dalle leggi e dai regolamenti gli usi hanno efficacia solo in quanto sono da essi richiamati .*
 
 *Art. 9 “Preleggi” - Gli usi pubblicati nelle raccolte ufficiali degli enti e degli organi a ciò autorizzati si presumono esistenti fino a prova contraria.*
 
 - - -
+
 **CONCETTI BASE:** 
 
 1) Usi e consuetudini sono al fondo della gerarchia delle fonti
 2) finzione giuridica e ogni altra cosa vale solo se compatibile
 
 - - -
+
 *Patto internazionale sui diritti civili e politici        Adottato dall'Assemblea Generale delle Nazioni Unite Entrato in vigore internazionale: 23 marzo 1976.     Ratifica ed esecuzione Italiana legge n.881/1977*
+
 - - -
+
 *Articolo 1. “Patto internazionale sui diritti civili e politici”*
 
 1. *Tutti i popoli hanno il diritto di autodeterminazione. In virtù di questo diritto, essi decidono liberamente del loro statuto politico e perseguono liberamente il loro sviluppo economico, sociale e culturale.*
@@ -358,16 +376,19 @@ Esistono anche:
 3. *Gli Stati Parti del presente Patto, ivi compresi quelli che sono responsabili dell’amministrazione di territori non autonomi e di territori in amministrazione fiduciaria, debbono promuovere l’attuazione del diritto di autodeterminazione dei popoli e rispettare tale diritto, in conformità alle disposizioni dello Statuto delle Nazioni Unite.*
 
 - - -
+
 *Articolo 2.“Patto internazionale sui diritti civili e politici”*
 
 1. *Ciascuno degli Stati Parti del presente Patto si impegna a rispettare ed a garantire a tutti gli individui che si trovino sul suo territorio e siano sottoposti alla sua giurisdizione i diritti riconosciuti nel presente Patto, senza distinzione alcuna, sia essa fondata sulla razza, il colore, il sesso, la lingua, la religione, l’opinione politica o qualsiasi altra opinione, l’origine nazionale o sociale, la condizione economica, la nascita o qualsiasi altra condizione.*
 2. *Ciascuno degli Stati Parti del presente Patto si impegna a compiere, in armonia con le proprie procedure costituzionali e con le disposizioni del presente Patto, i passi per l’adozione delle misure legislative o d’altro genere che possano occorrere per rendere effettivi i diritti riconosciuti nel presente Patto, qualora non vi provvedano già le misure, legislative e d’altro genere, in vigore.*
+
 - - -
 
-*In caso di autodeterminazione di un popolo      legalmente riconosciuto lo Stato deve promuovere l’autodeterminazione e rimuovere ogni ostacolo di natura legale, penale, amministrativa ecc per    rendere effettivo il diritto di autodeterminazione. Per i popoli non legalmente riconosciuti,        l’autodeterminazione è soggetta al consenso della Comunità internazionale, a meno che non vi siano crimini contro l’umanità o la guerra.*
+*In caso di autodeterminazione di un popolo legalmente riconosciuto lo Stato deve promuovere l’autodeterminazione e rimuovere ogni ostacolo di natura legale, penale, amministrativa ecc per    rendere effettivo il diritto di autodeterminazione. Per i popoli non legalmente riconosciuti, l’autodeterminazione è soggetta al consenso della Comunità internazionale, a meno che non vi siano crimini contro l’umanità o la guerra.*
+
 - - -
 
-*Legge 22 maggio 1971, n. 340 -  STATUTO DELLA REGIONE VENETO*
+*Legge 22 maggio 1971, n. 340 - STATUTO DELLA REGIONE VENETO*
 
 *Art. 1 - Il Veneto è Regione autonoma, nell' unità della Repubblica italiana, secondo i principi e nei limiti della Costituzione, e si dà il presente Statuto.*
 
@@ -376,6 +397,7 @@ Esistono anche:
 *Art. 2 L' autogoverno del **popolo veneto** si attua in forme rispondenti alle caratteristiche e tradizioni della sua storia.*
 
 *La Regione concorre alla valorizzazione del patrimonio culturale e linguistico delle singole comunità.*
+
 - - -
 
 *Percorsi possibili*
@@ -404,6 +426,7 @@ I cittadini si riuniscono e fondano l’Assemblea dei Membri ed il Tribunale
 La Creazione dello Stato Veneto interno alla Repubblica Italiana è stato un atto legale che ha permesso il seguito.
 
 - - -
+
 Riprende l’autodeterminazione internazionale
 
 2006 – Accertamento della illegalità/nullità dell’Annessione del Lombardo- Veneto e del Referendum Monarchia-Repubblica del 1946 . 
@@ -447,6 +470,7 @@ Con un ricorso alla Corte Internazionale di Giustizia il Lombardo-Veneto può to
 Siamo legalmente liberi ma non siamo in grado di esercitare i nostri diritti. Il Piano Z si chiama così perché ci si arriverà per necessità di sopravvivenza.
 
 - - -
+
 *LEGGE REGIONALE STATUTARIA n. 1 del 17 aprile 2012*
 
 *Art. 1 - 1. Il Veneto è Regione autonoma, secondo il presente Statuto, in armonia con la Costituzione della Repubblica e con i principi dell'ordinamento dell'Unione europea.*
@@ -483,4 +507,4 @@ Siamo legalmente liberi ma non siamo in grado di esercitare i nostri diritti. Il
 Canale Telegram : 
 
 <https://t.me/sovranita_autodeterminazione_z>
-Loris Palmerini (c) - pagina 47 di 47  Per approfondire:[  www.lombardo-veneto.ne](http://Www.lombardo-veneto.net/)t [e www.statoveneto.ne](http://www.statoveneto.net/)t [e www.palmerini.ne](http://www.palmerini.net/)tcv
+Loris Palmerini (c) - pagina 47 di 47  Per approfondire:[  www.lombardo-veneto.ne](http://Www.lombardo-veneto.net/)t [e www.statoveneto.ne](http://www.statoveneto.net/)t [e www.palmerini.ne](http://www.palmerini.net/)t
