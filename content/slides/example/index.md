@@ -3,6 +3,8 @@ title: Cos'è il Piano Z?
 date: 2019-02-05
 summary: Presentazione riguardante il processo di Liberazione degli stati
   pre-unitari, il PIANO Z
+font: Native  
+font_size: M
 slides:
   theme: ""
   highlight_style: dracula
@@ -12,6 +14,7 @@ tags:
 image:
   preview_only: false
   focal_point: ""
+  
 categories: []
 ---
 # PIANO Z
