@@ -12,7 +12,7 @@ slides:
 ---
 # PIANO Z
 
- presentazione di [Loris Palmerini](https://palmerini.net/)
+ *presentazione di [Loris Palmerini](https://palmerini.net/)*
 
 ## [statoveneto](https://statoveneto.net) | [ Federazione](https://lombardo-veneto.net)
 
