@@ -90,7 +90,7 @@ Umiltà, attenzione, volontà di libertà, fatica, logica, ecc
 - Nel 1815 gli Asburgo hanno accorpato i Ducati di Milano e Mantova al Ducato Veneto creando il Regno Lombardo-Veneto, stato con capitale Venezia e diviso in due regione, Veneto e Lombardia.  
 
 - - -
-![](https://upload.wikimedia.org/wikipedia/commons/7/7d/Suddivisioni_del_Regno_Lombardo-Veneto.svg "Province Lombardo-Veneto")
+![](https://upload.wikimedia.org/wikipedia/commons/7/7d/Suddivisioni_del_Regno_Lombardo-Veneto.svg)
 ### Nota Bene:
 - Con la creazione del Lombardo-Veneto da parte degli Asburgo viene inventato anche il concetto moderno di Lombardia
 - Secondo il diritto internazionale il regno Lombardo-Veneto è l'erede giuridico di tre stati: La Repubblica Veneta, il Ducato di Milano ed il Ducato di Mantova
