@@ -49,11 +49,17 @@ s﻿econdo la legge italiana:
 ### Patto internazionale sui diritti civili e politici
 
 * Adottato dall'Assemblea Generale dell'ONU con Risoluzione 2200A(XXI) del 16 dicembre 1966. Entrata in vigore nel 1976
-* Autorizzazione alla ratifica e ordine di esecuzione in Italia dati con legge n.881 del 25 ottobre 1977 
-  Articolo 7.
-**nessuno può essere sottoposto, senza il suo libero consenso, ad un esperimento medico o scientifico.**
+*  Autorizzazione alla ratifica e ordine di esecuzione in Italia dati con legge n.881 del 25 ottobre 1977 
 
 - - -
+#Articolo 7 del Patto internazionale sui diritti civili e politici
+> Nessuno può essere sottoposto alla tortura né a punizioni o trattamenti crudeli,
+disumani o degradanti, in particolare, nessuno può essere sottoposto, senza il suo
+libero consenso, ad un esperimento medico o scientifico.  
+
+**nessuno può essere sottoposto, senza il suo libero consenso, ad un esperimento medico o scientifico.**
+
+-﻿ - -
 
 ### Tempo di neonazismo
 
