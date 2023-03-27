@@ -72,7 +72,7 @@ parte I
 - emigrazione
 - attività politica di partito
 - opposizione popolare di piazza
-- ricostruzione della sovranità legale 
+- ricostruzione della sovranità legale   
 Dobbiamo conoscere i diritti e le leggi costituzionali e internazionali 
 Ci occorre un atteggiamento proattivo: Umiltà, attenzione, volontà di libertà, fatica, e logica
 
