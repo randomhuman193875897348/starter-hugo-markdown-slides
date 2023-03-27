@@ -19,6 +19,7 @@ slides:
 - - -
 
 ### Concetti fondamentali
+
 * la Costituzione è la carta suprema, è illegale ciò che non è compatibile con essa
 * il popolo è sovrano, ma nei limiti della Costituzione (art.1)
 * in Italia valgono le leggi estere solo se ratificate (art.10,73,80 Cost)
@@ -26,7 +27,6 @@ slides:
 * l’Italia non è sottoposta ad Ammiragliato,  UCC, Codice Canonico, Leggi Vaticane
 
 - - -
-
 
 * la Dichiarazione Universale dei diritti dell’Uomo non è ratificata
 * i diritti umani sono protetti (art.2 Cost), ma sono scritti nei seguenti atti:
@@ -38,17 +38,14 @@ slides:
 
 - - -
 
-## Controls
+### Patto internazionale sui diritti civili e politici
 
-* Next: `Right Arrow` or `Space`
-* Previous: `Left Arrow`
-* Start: `Home`
-* Finish: `End`
-* Overview: `Esc`
-* Speaker notes: `S`
-* Fullscreen: `F`
-* Zoom: `Alt + Click`
-* [PDF Export](https://revealjs.com/pdf-export/)
+* Adottato dall'Assemblea Generale delle Nazioni Unite con Risoluzione 2200A(XXI) del 16 dicembre 1966. Entrata in vigore internazionale: 23 marzo 1976.  
+* Autorizzazione alla ratifica e ordine di esecuzione in Italia dati con  legge n.881 del 25 ottobre 1977 
+  Articolo 7.
+* Nessuno può essere sottoposto alla tortura né a punizioni o trattamenti crudeli, disumani o degradanti, in particolare, nessuno può essere sottoposto, senza il suo libero consenso, ad un esperimento medico o scientifico.
+
+> **Senza il suo libero consenso nessuno può essere sottoposto ad un esperimento medico o scientifico.**  
 
 - - -
 
