@@ -12,7 +12,7 @@ slides:
 ---
 # PIANO Z
 
- *presentazione di [Loris Palmerini] (https://palmerini.net/)* ©
+ *presentazione di [Loris Palmerini](https://palmerini.net/)* ©
 
 ### [Stato Veneto](https://statoveneto.net) | [Federazione](https://lombardo-veneto.net)
 
@@ -59,16 +59,22 @@ s﻿econdo la legge italiana:
 * Le elezioni vengono pilotate dai media
 
 - - -
+### Come uscirne?
 
-## Math
+Varie proposte:
 
-In-line math: $x + y = z$
+- comunità naturali o autonome isolate
+- emigrazione
+- attività politica di partito
+- opposizione popolare di piazza
+- ricostruzione della sovranità legale 
 
-Block math:
+Ci occorrono gli strumenti di conoscenza : 
 
-$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
+Costituzione, leggi internazionali , diritti delle persone e dei popoli, identità. Ci occorre un atteggiamento proattivo: 
+
+Umiltà, attenzione, volontà di libertà, fatica, logica, ecc
+
 
 - - -
 
