@@ -43,23 +43,17 @@ slides:
 * Adottato dall'Assemblea Generale delle Nazioni Unite con Risoluzione 2200A(XXI) del 16 dicembre 1966. Entrata in vigore internazionale: 23 marzo 1976.  
 * Autorizzazione alla ratifica e ordine di esecuzione in Italia dati con  legge n.881 del 25 ottobre 1977 
   Articolo 7.
-* Nessuno può essere sottoposto alla tortura né a punizioni o trattamenti crudeli, disumani o degradanti, in particolare, nessuno può essere sottoposto, senza il suo libero consenso, ad un esperimento medico o scientifico.
-
-> **Senza il suo libero consenso nessuno può essere sottoposto ad un esperimento medico o scientifico.**  
+* Nessuno può essere sottoposto alla tortura né a punizioni o trattamenti crudeli, disumani o degradanti, in particolare, **nessuno può essere sottoposto, senza il suo libero consenso, ad un esperimento medico o scientifico.**
 
 - - -
 
-## Code Highlighting
+### Tempo di neonazismo
 
-Inline code: `variable`
-
-Code block:
-
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+* la pandemia diventa mezzo per sovvertire la Costituzione
+* vengono negate le cure esistenti (Dedonno, bromexina ecc)
+* il Governo obbliga i cittadini a iniettarsi preparati sperimentali- vengono nascosti i danni da vaccino
+* finita la libertà di informazione
+* le elezioni vengono pilotate dai media
 
 - - -
 
