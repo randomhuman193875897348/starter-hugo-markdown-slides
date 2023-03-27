@@ -7,7 +7,7 @@ tags:
 categories: []
 date: 2019-02-05
 slides:
-  theme: black
+  theme: red
   highlight_style: dracula
 ---
 # PIANO Z
@@ -24,7 +24,7 @@ parte I
 
 ### Concetti fondamentali
 
-s﻿econdo la legge italiana:
+
 
 * la Costituzione è la carta suprema, è illegale ciò che non è compatibile con essa
 * il popolo è sovrano, ma nei limiti della Costituzione (art.1)
