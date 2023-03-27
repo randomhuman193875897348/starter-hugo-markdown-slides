@@ -14,7 +14,7 @@ slides:
 
  *presentazione di [Loris Palmerini](https://palmerini.net/)*
 
-### [Stato/ Veneto](https://statoveneto.net) | [Federazione](https://lombardo-veneto.net)
+### [Stato/Veneto](https://statoveneto.net) | [Federazione](https://lombardo-veneto.net)
 
 - - -
 
