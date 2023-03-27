@@ -12,6 +12,9 @@ tags:
 image:
   preview_only: false
   focal_point: ""
+  font: Native
+  font_size: M
+
 categories: []
 ---
 # PIANO Z
