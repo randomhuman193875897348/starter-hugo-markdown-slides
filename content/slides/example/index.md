@@ -92,8 +92,8 @@ Umiltà, attenzione, volontà di libertà, fatica, logica, ecc
 - - -
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7d/Suddivisioni_del_Regno_Lombardo-Veneto.svg)
 ### Nota Bene:
-- Con la creazione del Lombardo-Veneto da parte degli Asburgo viene inventato anche il concetto moderno di Lombardia
-- Secondo il diritto internazionale il regno Lombardo-Veneto è l'erede giuridico di tre stati: La Repubblica Veneta, il Ducato di Milano ed il Ducato di Mantova
+- Con la creazione del Lombardo-Veneto da parte degli Asburgo viene inventato anche il concetto moderno di Lombardia 
+- Secondo il diritto internazionale il regno Lombardo-Veneto è l'erede giuridico della Repubblica Veneta e dei Ducati di Milano e Mantova
 
 - - -
 
