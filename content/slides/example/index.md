@@ -19,12 +19,14 @@ slides:
 - - -
 
 ## Concetti fondamentali
-
 * la Costituzione è la carta suprema, è illegale ciò che non è compatibile con essa
 * il popolo è sovrano, ma nei limiti della Costituzione (art.1)
 * in Italia valgono le leggi estere solo se ratificate (art.10,73,80 Cost)
 * l’Italia fa parte di : ONU, Consiglio d’Europa, Unione Europea, NATO, WTO, sistema interbancario “BIS” e Basilea,  UPU
-* l’Italia non è sottoposta ad Ammiragliato,  UCC, Codice Canonico, Leggi vaticane
+* l’Italia non è sottoposta ad Ammiragliato,  UCC, Codice Canonico, Leggi Vaticane
+
+-﻿ - -
+
 * la Dichiarazione Universale dei diritti dell’Uomo non è ratificata
 * i diritti umani sono protetti (art.2 Cost), ma sono scritti nei seguenti atti:
 
