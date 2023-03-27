@@ -501,4 +501,4 @@ Siamo legalmente liberi ma non siamo in grado di esercitare i nostri diritti. Il
 ### [Stato Veneto](https://statoveneto.net) | [Federazione](https://lombardo-veneto.net)  
 #### [Telegram](https://t.me/sovranita_autodeterminazione_z)
 
-##### [Blog Personale](http://www.palmerini.net/)
+##### [Blog Personale](https://www.palmerini.net/)
