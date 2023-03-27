@@ -51,11 +51,12 @@ s﻿econdo la legge italiana:
 
 ### Tempo di neonazismo
 
-* la pandemia diventa mezzo per sovvertire la Costituzione
-* vengono negate le cure esistenti (Dedonno, bromexina ecc)
-* il Governo obbliga i cittadini a iniettarsi preparati sperimentali- vengono nascosti i danni da vaccino
-* finita la libertà di informazione
-* le elezioni vengono pilotate dai media
+* La pandemia diventa mezzo per sovvertire la Costituzione
+* Vengono negate le cure esistenti (Dedonno, bromexina ecc)
+* Il Governo obbliga i cittadini a iniettarsi preparati sperimentali
+* Vengono nascosti i danni da vaccino
+* Finita la libertà di informazione
+* Le elezioni vengono pilotate dai media
 
 - - -
 
