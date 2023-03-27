@@ -14,16 +14,24 @@ slides:
 
  *presentazione di [Loris Palmerini](https://palmerini.net/)*
 
-### [StatoVeneto](https://statoveneto.net) | [ Federazione](https://lombardo-veneto.net)
+### [Stato Veneto](https://statoveneto.net) | [Federazione](https://lombardo-veneto.net)
 
 - - -
 
-## Features
+## Concetti fondamentali
 
-* Efficiently write slides in Markdown
-* 3-in-1: Create, Present, and Publish your slides
-* Supports speaker notes
-* Mobile friendly slides
+* la Costituzione è la carta suprema, è illegale ciò che non è compatibile con essa
+* il popolo è sovrano, ma nei limiti della Costituzione (art.1)
+* in Italia valgono le leggi estere solo se ratificate (art.10,73,80 Cost)
+* l’Italia fa parte di : ONU, Consiglio d’Europa, Unione Europea, NATO, WTO, sistema interbancario “BIS” e Basilea,  UPU
+* l’Italia non è sottoposta ad Ammiragliato,  UCC, Codice Canonico, Leggi vaticane
+* la Dichiarazione Universale dei diritti dell’Uomo non è ratificata
+* i diritti umani sono protetti (art.2 Cost), ma sono scritti nei seguenti atti:
+
+1. “Convenzione europea per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali” L.n.848/1956 e protocolli aggiuntivi
+2. Convenzione supplementare sull’abolizione della schiavitù, del commercio di schiavi, e sulle istituzioni e pratiche assimilabili alla schiavitù (1956) L.n.1304/1957 
+3. Patto internazionale sui diritti civili e politici L.n881/1977
+4. “Convenzione di Oviedo”  L.n.145/2001
 
 - - -
 
