@@ -52,6 +52,7 @@ s﻿econdo la legge italiana:
 *  Autorizzazione alla ratifica e ordine di esecuzione in Italia dati con legge n.881 del 25 ottobre 1977 
 
 - - -
+
 #Articolo 7 del Patto internazionale sui diritti civili e politici
 > Nessuno può essere sottoposto alla tortura né a punizioni o trattamenti crudeli,
 disumani o degradanti, in particolare, nessuno può essere sottoposto, senza il suo
@@ -59,7 +60,7 @@ libero consenso, ad un esperimento medico o scientifico.
 
 **nessuno può essere sottoposto, senza il suo libero consenso, ad un esperimento medico o scientifico.**
 
--﻿ - -
+- - -
 
 ### Tempo di neonazismo
 
