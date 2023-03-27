@@ -1,7 +1,8 @@
 ---
 title: Cos'è il Piano Z?
 date: 2019-02-05
-summary: An introduction to using Wowchemy's Slides feature.
+summary: Presentazione riguardante il processo di Liberazione degli stati
+  pre-unitari, il PIANO Z
 slides:
   theme: ""
   highlight_style: dracula
@@ -496,15 +497,8 @@ Siamo legalmente liberi ma non siamo in grado di esercitare i nostri diritti. Il
 
 - - -
 
-**Per approfondire:        [www.lombardo-veneto.net/Z**](http://Www.lombardo-veneto.net/Z)**
+### Per approfondire
 
-![](Aspose.Words.a925e1bf-a187-4ac1-8a00-1b1e921e5e94.003.png)
+### [Telegram](https://t.me/sovranita_autodeterminazione_z) | [Stato Veneto](https://statoveneto.net) | [Federazione](https://lombardo-veneto.net)
 
-[**www.statoveneto.net** ](http://www.statoveneto.net/)
-
-[**www.palmerini.net**](http://www.palmerini.net/)
-
-Canale Telegram : 
-
-<https://t.me/sovranita_autodeterminazione_z>
-Loris Palmerini (c) - pagina 47 di 47  Per approfondire:[  www.lombardo-veneto.ne](http://Www.lombardo-veneto.net/)t [e www.statoveneto.ne](http://www.statoveneto.net/)t [e www.palmerini.ne](http://www.palmerini.net/)t
+[Blog Personale](http://www.palmerini.net/)
