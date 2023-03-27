@@ -59,6 +59,7 @@ s﻿econdo la legge italiana:
 * Le elezioni vengono pilotate dai media
 
 - - -
+
 ### Come uscirne?
 
 Varie proposte:
@@ -74,7 +75,6 @@ Ci occorrono gli strumenti di conoscenza :
 Costituzione, leggi internazionali , diritti delle persone e dei popoli, identità. Ci occorre un atteggiamento proattivo: 
 
 Umiltà, attenzione, volontà di libertà, fatica, logica, ecc
-
 
 - - -
 
