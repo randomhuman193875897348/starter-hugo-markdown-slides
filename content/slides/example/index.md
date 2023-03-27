@@ -3,8 +3,6 @@ title: Cos'è il Piano Z?
 date: 2019-02-05
 summary: Presentazione riguardante il processo di Liberazione degli stati
   pre-unitari, il PIANO Z
-font: Native  
-font_size: M
 slides:
   theme: ""
   highlight_style: dracula
@@ -14,7 +12,6 @@ tags:
 image:
   preview_only: false
   focal_point: ""
-  
 categories: []
 ---
 # PIANO Z
@@ -500,8 +497,7 @@ Siamo legalmente liberi ma non siamo in grado di esercitare i nostri diritti. Il
 
 - - -
 
-### Per approfondire
-
-### [Telegram](https://t.me/sovranita_autodeterminazione_z) | [Stato Veneto](https://statoveneto.net) | [Federazione](https://lombardo-veneto.net)
+### Siti istituzionali [Stato Veneto](https://statoveneto.net) | [Federazione](https://lombardo-veneto.net)  
+### [Telegram](https://t.me/sovranita_autodeterminazione_z)
 
 [Blog Personale](http://www.palmerini.net/)
