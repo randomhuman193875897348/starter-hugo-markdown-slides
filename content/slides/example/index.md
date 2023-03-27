@@ -42,7 +42,7 @@ s﻿econdo la legge italiana:
 
 ### Patto internazionale sui diritti civili e politici
 
-* Adottato dall'Assemblea Generale delle Nazioni Unite con Risoluzione 2200A(XXI) del 16 dicembre 1966. Entrata in vigore internazionale: 23 marzo 1976.  
+* Adottato dall'Assemblea Generale delle Nazioni Unite con Risoluzione 2200A(XXI) del 16 dicembre 1966. Entrata in vigore internazionale: 23 marzo 1976.
 * Autorizzazione alla ratifica e ordine di esecuzione in Italia dati con  legge n.881 del 25 ottobre 1977 
   Articolo 7.
 * Nessuno può essere sottoposto alla tortura né a punizioni o trattamenti crudeli, disumani o degradanti, in particolare, **nessuno può essere sottoposto, senza il suo libero consenso, ad un esperimento medico o scientifico.**
@@ -70,7 +70,7 @@ Varie proposte:
 - opposizione popolare di piazza
 - ricostruzione della sovranità legale 
 
-Ci occorrono gli strumenti di conoscenza : 
+Ci occorrono gli strumenti di conoscenza: 
 
 Costituzione, leggi internazionali , diritti delle persone e dei popoli, identità. Ci occorre un atteggiamento proattivo: 
 
@@ -89,11 +89,15 @@ Umiltà, attenzione, volontà di libertà, fatica, logica, ecc
 - Nel 1797 la Repubblica di Venezia non è morta; invasa da Napoleone ha cambiato forma di governo da Aristocratico a Municipale ed in seguito è stata ceduta agli Asburgo.
 - Nel 1815 gli Asburgo hanno accorpato i Ducati di Milano e Mantova al Ducato Veneto creando il Regno Lombardo-Veneto, stato con capitale Venezia e diviso in due regione, Veneto e Lombardia.  
 
-Nota Bene:
-- Con questo atto nasce il concetto moderno di Lombardia
+- - -
+![](https://upload.wikimedia.org/wikipedia/commons/7/7d/Suddivisioni_del_Regno_Lombardo-Veneto.svg "Province Lombardo-Veneto")
+### Nota Bene:
+- Con la creazione del Lombardo-Veneto da parte degli Asburgo viene inventato anche il concetto moderno di Lombardia
 - Secondo il diritto internazionale il regno Lombardo-Veneto è l'erede giuridico di tre stati: La Repubblica Veneta, il Ducato di Milano ed il Ducato di Mantova
 
 - - -
+
+
 ```
 {{</* fragment */>}} $\mathbf{y} =  $ {{</* /fragment */>}}
 {{</* fragment */>}} $X\boldsymbol\beta$ {{</* /fragment */>}}
