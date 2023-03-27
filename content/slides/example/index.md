@@ -80,8 +80,6 @@ parte I
 Dobbiamo conoscere i diritti e le leggi costituzionali e internazionali 
 Ci occorre un atteggiamento proattivo: Umiltà, attenzione, volontà di libertà, fatica, e logica
 
-
-
 - - -
 
 ### È FACILE CREDERE CHE LE COSE SIANO SEMPLICI, CHE BASTI UNA VELOCE SPIEGAZIONE, INVECE OCCORRE TANTA FATICA ED UMILTÀ
@@ -98,14 +96,18 @@ Parte II
 - Fino al 1840 le annessioni le decidevano i Re, Imperatori, Dogi, Papi ecc e Chi vinceva la guerra comandava. 
 
 - Nel 1797 la Repubblica di Venezia non è morta; invasa da Napoleone ha cambiato forma di governo da Aristocratico a Municipale ed in seguito è stata ceduta agli Asburgo.
-- Nel 1815 gli Asburgo hanno accorpato i Ducati di Milano e Mantova al Ducato Veneto creando il Regno Lombardo-Veneto, stato con capitale Venezia e diviso in due regione, Veneto e Lombardia.  
+- Nel 1815 gli Asburgo hanno accorpato i Ducati di Milano e Mantova al Ducato Veneto creando il Regno Lombardo-Veneto  
 
 - - -
 
+
 #### Nota Bene:
+- La capitale del Lombardo-Veneto è Venezia.È diviso in due regioni: Veneto e Lombardia.
 - Con la creazione del Lombardo-Veneto da parte degli Asburgo viene inventato anche il concetto moderno di Lombardia 
 - Secondo il diritto internazionale il regno Lombardo-Veneto è l'erede giuridico della Repubblica Veneta e dei Ducati di Milano e Mantova
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7d/Suddivisioni_del_Regno_Lombardo-Veneto.svg)
+
+
 
 
 - - -
