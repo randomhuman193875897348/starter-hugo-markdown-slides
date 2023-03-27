@@ -67,9 +67,9 @@ parte I
 
 - - -
 
-### Come uscirne?
+### Come uscirne? Varie proposte:
 
-Varie proposte:
+
 
 - comunità naturali o autonome isolate
 - emigrazione
@@ -77,11 +77,10 @@ Varie proposte:
 - opposizione popolare di piazza
 - ricostruzione della sovranità legale 
 
-Ci occorrono gli strumenti di conoscenza: 
+Dobbiamo conoscere: la Costituzione, leggi internazionali, diritti delle persone e dei popoli, identità.  
+Ci occorre un atteggiamento proattivo: Umiltà, attenzione, volontà di libertà, fatica, e logica
 
-Costituzione, leggi internazionali , diritti delle persone e dei popoli, identità. Ci occorre un atteggiamento proattivo: 
 
-Umiltà, attenzione, volontà di libertà, fatica, logica, ecc
 
 - - -
 
