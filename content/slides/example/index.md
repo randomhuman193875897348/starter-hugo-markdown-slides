@@ -37,7 +37,7 @@ parte I
 * la Dichiarazione Universale dei diritti dell’Uomo non è ratificata
 * i diritti umani sono protetti (art.2 Cost), ma sono scritti nei seguenti atti:
 1. “Convenzione europea per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali” L.n.848/1956
-2. Convenzione supplementare sull’abolizione della schiavitù, del commercio di schiavi, e sulle istituzioni e pratiche assimilabili alla schiavitù (1956) L.n.1304/1957 
+2. Convenzione supplementare sull'abolizione della schiavitù, del commercio di schiavi, e sulle istituzioni e pratiche assimilabili alla schiavitù (1956) L.n.1304/1957 
 3. Patto internazionale sui diritti civili e politici L.n881/1977
 4. “Convenzione di Oviedo”  L.n.145/2001
 
@@ -68,17 +68,14 @@ parte I
 - - -
 
 ### Come uscirne? Varie proposte:
-
-
-
 - comunità naturali o autonome isolate
 - emigrazione
 - attività politica di partito
 - opposizione popolare di piazza
 - ricostruzione della sovranità legale 
-
-Dobbiamo conoscere: la Costituzione, leggi internazionali, diritti delle persone e dei popoli, identità.  
+Dobbiamo conoscere i diritti e le leggi costituzionali e internazionali 
 Ci occorre un atteggiamento proattivo: Umiltà, attenzione, volontà di libertà, fatica, e logica
+
 
 
 
