@@ -1,5 +1,5 @@
 ---
-title: Example Slides
+title: Cos'è il Piano Z?
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags:
@@ -14,7 +14,7 @@ slides:
 
 # PIANO Z
 
-di [Loris Palmerini](https://palmerini.net/)  
+ presentazione di [Loris Palmerini](https://palmerini.net/)
 
 [statoveneto](https://statoveneto.net) | [Federazione](https://lombardo-veneto.net)
 
