@@ -54,7 +54,7 @@ locale:
 
 features:
   privacy_pack:
-    enable: false
+    enable: true
 
 # Security
 
